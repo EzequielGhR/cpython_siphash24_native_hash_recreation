@@ -2,7 +2,7 @@ import os
 import ctypes
 import logging
 
-from typing import Optional
+from typing import Optional, Callable
 from siphash import SipHash_2_4
 
 
